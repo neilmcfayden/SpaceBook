@@ -1,0 +1,36 @@
+.nav-style {
+  display: grid;
+  grid-template-columns: 12fr 2fr 2fr 2fr 2fr;
+  align-items: end;
+  width: 90%;
+}
+
+.btn-nav {
+  margin-right: 25px;
+  width: 120px;
+  padding-top: 10px;
+  border: 2px solid #A9B3CE;
+}
+
+.btn-logo{
+  img {
+    margin-top: 20px;
+    max-height: 100px;
+    max-width: 100px;
+  }
+  margin-left: 50px;
+}
+
+.nav-offers {
+  // margin-left: 10px;
+  margin-right: -80px;
+}
+
+.logo {
+  background-size: cover;
+}
+
+.nav-links {
+  margin-left: 300px;
+}
+
